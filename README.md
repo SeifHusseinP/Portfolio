@@ -1,7 +1,8 @@
-# Engineer / Data Analyst
+# Engineer | Data Analyst
 
 ### Education
-Bachelor of Electromechanical Engineering, Master of Data Science 
+Bachelor of Electromechanical Engineering | KU Leuven 
+Masters of Data Science | KU Leuven 
 
 ### Work Experience
 Vehicle Design Engineer @ Formula Electric Belgium
